@@ -2,13 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="824b0fa1-207f-4f5d-8546-ea3204318997" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/hats.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/jackets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/men.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/hats/blue-beanie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/hats/blue-snapback.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/hats/brown-brim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/hats/brown-cowboy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/hats/green-beanie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/hats/grey-brim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/hats/palm-tree-cap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/hats/red-beanie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/hats/wolf-cap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/jackets/black-shearling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/jackets/blue-jean-jacket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/jackets/brown-shearling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/jackets/brown-trench.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/jackets/grey-jean-jacket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/mens/camo-vest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/mens/floral-shirt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/mens/long-sleeve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/mens/pink-shirt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/mens/polka-dot-shirt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/mens/roll-up-jean-shirt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/sneakers/adidas-nmd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/sneakers/black-converse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/sneakers/nike-brown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/sneakers/nike-funky.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/sneakers/nikes-red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/sneakers/timberlands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/sneakers/white-nike-high-tops.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/sneakers/yeezy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/womens/blue-tank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/womens/floral-blouse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/womens/floral-skirt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/womens/red-polka-dot-dress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/womens/striped-sweater.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/womens/white-vest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shop-img/womens/yellow-track-suit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/sneakers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/womens.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/collection-preview/collection-preview.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/collection-preview/collection-preview.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/shop/shop.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/shop/shop.data.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/directory/directory.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/directory/directory.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/menu-item/menu-item.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/menu-item/menu-item.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +85,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/shop" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -52,14 +96,20 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Rainbow Brackets" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/shop" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/collection-preview" />
+      <recent name="$PROJECT_DIR$/src/components/collection-item" />
+      <recent name="$PROJECT_DIR$/src/pages" />
       <recent name="$PROJECT_DIR$/src/pages/homepage" />
       <recent name="$PROJECT_DIR$/src/components/directory" />
-      <recent name="$PROJECT_DIR$/src/components/menu-item" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -107,7 +157,7 @@
       <workItem from="1602688619794" duration="49000" />
       <workItem from="1602688677320" duration="1195000" />
       <workItem from="1602777578737" duration="3964000" />
-      <workItem from="1602782480357" duration="7179000" />
+      <workItem from="1602782480357" duration="12684000" />
     </task>
     <servers />
   </component>
@@ -115,23 +165,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="569" y="531" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602545212602">
+    <state x="569" y="531" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602799438390">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="569" y="531" key="#com.intellij.fileTypes.FileTypeChooser/0.23.3440.1417/-1920.62.1920.1177@0.23.3440.1417" timestamp="1602545212602" />
-    <state x="548" y="466" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602687759718">
+    <state x="569" y="531" key="#com.intellij.fileTypes.FileTypeChooser/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602799438390" />
+    <state x="548" y="466" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602793559454">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="548" y="466" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.3440.1417/-1920.62.1920.1177@0.23.3440.1417" timestamp="1602687759718" />
-    <state x="1340" y="300" key="SettingsEditor" timestamp="1602782820336">
+    <state x="548" y="466" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602793559454" />
+    <state x="663" y="233" key="SettingsEditor" timestamp="1602795535019">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="369" y="370" key="SettingsEditor/0.23.3440.1417/-1920.62.1920.1177@0.23.3440.1417" timestamp="1602688665621" />
-    <state x="1340" y="300" key="SettingsEditor/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602782820336" />
-    <state x="525" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1602792928700">
+    <state x="663" y="233" key="SettingsEditor/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602795535019" />
+    <state x="525" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1602801462276">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="525" y="348" width="670" height="676" key="search.everywhere.popup/0.23.3440.1417/-1920.62.1920.1177@0.23.3440.1417" timestamp="1602688510868" />
-    <state x="525" y="348" width="670" height="676" key="search.everywhere.popup/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602792928700" />
+    <state x="525" y="348" width="670" height="676" key="search.everywhere.popup/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602801462276" />
   </component>
 </project>
