@@ -2,55 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="824b0fa1-207f-4f5d-8546-ea3204318997" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/hats.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/jackets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/men.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/hats/blue-beanie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/hats/blue-snapback.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/hats/brown-brim.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/hats/brown-cowboy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/hats/green-beanie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/hats/grey-brim.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/hats/palm-tree-cap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/hats/red-beanie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/hats/wolf-cap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/jackets/black-shearling.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/jackets/blue-jean-jacket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/jackets/brown-shearling.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/jackets/brown-trench.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/jackets/grey-jean-jacket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/mens/camo-vest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/mens/floral-shirt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/mens/long-sleeve.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/mens/pink-shirt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/mens/polka-dot-shirt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/mens/roll-up-jean-shirt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/sneakers/adidas-nmd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/sneakers/black-converse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/sneakers/nike-brown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/sneakers/nike-funky.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/sneakers/nikes-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/sneakers/timberlands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/sneakers/white-nike-high-tops.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/sneakers/yeezy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/womens/blue-tank.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/womens/floral-blouse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/womens/floral-skirt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/womens/red-polka-dot-dress.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/womens/striped-sweater.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/womens/white-vest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shop-img/womens/yellow-track-suit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/sneakers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/womens.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/collection-preview/collection-preview.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/collection-preview/collection-preview.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/shop/shop.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/shop/shop.data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/crown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/form-input/form-input.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/form-input/form-input.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sign-in/sign-in.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firebase/firebase-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up-page/sign-in-and-sign-up.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up-page/sign-in-and-sign-up.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/collection-item/collection-item.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/collection-item/collection-item.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/collection-preview/collection-preview.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collection-preview/collection-preview.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/collection-preview/collection-preview.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collection-preview/collection-preview.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/directory/directory.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/directory/directory.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/menu-item/menu-item.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/menu-item/menu-item.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/menu-item/menu-item.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/menu-item/menu-item.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/homepage/homepage.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/homepage/homepage.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/shop/shop.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/shop/shop.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/shop/shop.data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/shop/shop.data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +48,118 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GotoFileConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="ActionScript" />
+      <filtered-out-file-type name="Angular2Html" />
+      <filtered-out-file-type name="Angular2Svg" />
+      <filtered-out-file-type name="ASP" />
+      <filtered-out-file-type name="AspectJ" />
+      <filtered-out-file-type name="Bazaar file" />
+      <filtered-out-file-type name="C#" />
+      <filtered-out-file-type name="C++" />
+      <filtered-out-file-type name="Chef file" />
+      <filtered-out-file-type name="CloudFoundry file" />
+      <filtered-out-file-type name="CoffeeScript" />
+      <filtered-out-file-type name="Cookie storage file" />
+      <filtered-out-file-type name="Cucumber" />
+      <filtered-out-file-type name="Cvs file" />
+      <filtered-out-file-type name="Darcs file" />
+      <filtered-out-file-type name="Docker file" />
+      <filtered-out-file-type name="Dockerfile" />
+      <filtered-out-file-type name="DTD" />
+      <filtered-out-file-type name="ECMAScript 6" />
+      <filtered-out-file-type name="EditorConfig" />
+      <filtered-out-file-type name="EJS" />
+      <filtered-out-file-type name="ElasticBeanstalk file" />
+      <filtered-out-file-type name="Enforced Plain Text" />
+      <filtered-out-file-type name="Erlang" />
+      <filtered-out-file-type name="ESLint file" />
+      <filtered-out-file-type name="Floobits file" />
+      <filtered-out-file-type name="Flow" />
+      <filtered-out-file-type name="Fossil file" />
+      <filtered-out-file-type name="GitExclude file" />
+      <filtered-out-file-type name="GitIgnore file" />
+      <filtered-out-file-type name="Google Cloud file" />
+      <filtered-out-file-type name="Haml" />
+      <filtered-out-file-type name="Handlebars/Mustache" />
+      <filtered-out-file-type name="Haskell" />
+      <filtered-out-file-type name="HgIgnore file" />
+      <filtered-out-file-type name="HTML" />
+      <filtered-out-file-type name="HTTP Request" />
+      <filtered-out-file-type name="IDEA_MODULE" />
+      <filtered-out-file-type name="IDEA_PROJECT" />
+      <filtered-out-file-type name="IDEA_WORKSPACE" />
+      <filtered-out-file-type name="IDL" />
+      <filtered-out-file-type name="IgnoreLang file" />
+      <filtered-out-file-type name="Jade" />
+      <filtered-out-file-type name="JavaFX" />
+      <filtered-out-file-type name="Jest Snapshot" />
+      <filtered-out-file-type name="Jetpack file" />
+      <filtered-out-file-type name="JQL" />
+      <filtered-out-file-type name="JSCS" />
+      <filtered-out-file-type name="JSHint" />
+      <filtered-out-file-type name="JSHint file" />
+      <filtered-out-file-type name="JSON5" />
+      <filtered-out-file-type name="JSP" />
+      <filtered-out-file-type name="JSPX" />
+      <filtered-out-file-type name="JSX Harmony" />
+      <filtered-out-file-type name="Kubernetes Helm file" />
+      <filtered-out-file-type name="Less" />
+      <filtered-out-file-type name="Literate CoffeeScript" />
+      <filtered-out-file-type name="Markdown" />
+      <filtered-out-file-type name="Monotone file" />
+      <filtered-out-file-type name="Nodemon file" />
+      <filtered-out-file-type name="Npm file" />
+      <filtered-out-file-type name="NuxtJS file" />
+      <filtered-out-file-type name="PATCH" />
+      <filtered-out-file-type name="Perforce file" />
+      <filtered-out-file-type name="Perl" />
+      <filtered-out-file-type name="PHP" />
+      <filtered-out-file-type name="PLAIN_TEXT" />
+      <filtered-out-file-type name="PostCSS" />
+      <filtered-out-file-type name="Prettier file" />
+      <filtered-out-file-type name="RegExp" />
+      <filtered-out-file-type name="RNG Compact" />
+      <filtered-out-file-type name="Sass" />
+      <filtered-out-file-type name="Scratch" />
+      <filtered-out-file-type name="Shell Script" />
+      <filtered-out-file-type name="SourceMap" />
+      <filtered-out-file-type name="Spacebars" />
+      <filtered-out-file-type name="SQL" />
+      <filtered-out-file-type name="StyleLint file" />
+      <filtered-out-file-type name="Stylint file" />
+      <filtered-out-file-type name="Stylus" />
+      <filtered-out-file-type name="Swagger Codegen file" />
+      <filtered-out-file-type name="Team Foundation file" />
+      <filtered-out-file-type name="textmate" />
+      <filtered-out-file-type name="tsconfig" />
+      <filtered-out-file-type name="TypeScript" />
+      <filtered-out-file-type name="TypeScript JSX" />
+      <filtered-out-file-type name="Up file" />
+      <filtered-out-file-type name="Vue.js" />
+      <filtered-out-file-type name="XHTML" />
+      <filtered-out-file-type name="XML" />
+      <filtered-out-file-type name="YAML" />
+      <filtered-out-file-type name="yarn.lock" />
+      <filtered-out-file-type name="Angular Metadata JSON" />
+      <filtered-out-file-type name="ARCHIVE" />
+      <filtered-out-file-type name="dependency diagram" />
+      <filtered-out-file-type name="GithubPullRequest" />
+      <filtered-out-file-type name="GraphView" />
+      <filtered-out-file-type name="Native" />
+      <filtered-out-file-type name="UML" />
+      <filtered-out-file-type name="UNKNOWN" />
+      <filtered-out-file-type name="Dictionary" />
+    </file-type-list>
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -82,6 +175,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -96,20 +190,21 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/button" />
+      <recent name="$PROJECT_DIR$/src/components/form-input" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/src/components/header" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components/shop" />
       <recent name="$PROJECT_DIR$/public" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/components/collection-preview" />
-      <recent name="$PROJECT_DIR$/src/components/collection-item" />
-      <recent name="$PROJECT_DIR$/src/pages" />
-      <recent name="$PROJECT_DIR$/src/pages/homepage" />
-      <recent name="$PROJECT_DIR$/src/components/directory" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -157,7 +252,11 @@
       <workItem from="1602688619794" duration="49000" />
       <workItem from="1602688677320" duration="1195000" />
       <workItem from="1602777578737" duration="3964000" />
-      <workItem from="1602782480357" duration="12684000" />
+      <workItem from="1602782480357" duration="19023000" />
+      <workItem from="1602812611251" duration="67000" />
+      <workItem from="1602812691254" duration="4713000" />
+      <workItem from="1602874644031" duration="483000" />
+      <workItem from="1602875140160" duration="1244000" />
     </task>
     <servers />
   </component>
@@ -165,6 +264,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="494" y="396" key="#Notifications" timestamp="1602875594407">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="494" y="396" key="#Notifications/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602875594407" />
     <state x="569" y="531" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602799438390">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
@@ -175,15 +278,41 @@
     </state>
     <state x="548" y="466" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.3440.1417/-1920.62.1920.1177@0.23.3440.1417" timestamp="1602687759718" />
     <state x="548" y="466" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602793559454" />
-    <state x="663" y="233" key="SettingsEditor" timestamp="1602795535019">
+    <state x="572" y="419" key="#sign-in-and-sign-up.component.jsx" timestamp="1602805124568">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="572" y="419" key="#sign-in-and-sign-up.component.jsx/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602805124568" />
+    <state x="469" y="246" key="CommitChangelistDialog2" timestamp="1602806682771">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="469" y="246" key="CommitChangelistDialog2/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602806682771" />
+    <state x="917" y="520" width="684" height="658" key="EditFileWatcherDialog" timestamp="1602875056168">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="917" y="520" width="684" height="658" key="EditFileWatcherDialog/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602875056168" />
+    <state x="768" y="391" key="SettingsEditor" timestamp="1602875062517">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="369" y="370" key="SettingsEditor/0.23.3440.1417/-1920.62.1920.1177@0.23.3440.1417" timestamp="1602688665621" />
-    <state x="663" y="233" key="SettingsEditor/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602795535019" />
-    <state x="525" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1602801462276">
+    <state x="768" y="391" key="SettingsEditor/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602875062517" />
+    <state x="879" y="328" key="SettingsEditor/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602813757070" />
+    <state width="247" height="200" key="ShowFilterAction_Filter_Popup" timestamp="1602875550749">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="247" height="200" key="ShowFilterAction_Filter_Popup/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602875550749" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1602876366796">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602876366796" />
+    <state x="565" y="472" width="657" height="518" key="find.popup" timestamp="1602875278340">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="565" y="472" width="657" height="518" key="find.popup/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602875278340" />
+    <state x="525" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1602875637639">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="525" y="348" width="670" height="676" key="search.everywhere.popup/0.23.3440.1417/-1920.62.1920.1177@0.23.3440.1417" timestamp="1602688510868" />
-    <state x="525" y="348" width="670" height="676" key="search.everywhere.popup/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602801462276" />
+    <state x="525" y="348" width="670" height="676" key="search.everywhere.popup/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602875637639" />
+    <state x="525" y="348" width="670" height="676" key="search.everywhere.popup/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602805302438" />
   </component>
 </project>
