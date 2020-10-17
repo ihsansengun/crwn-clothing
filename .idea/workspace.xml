@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="824b0fa1-207f-4f5d-8546-ea3204318997" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/sign-up/sign-up.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/sign-up/sign-up.styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rcc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rcc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/header.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firebase/firebase-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase/firebase.utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up-page/sign-in-and-sign-up.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up-page/sign-in-and-sign-up.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up-page/sign-in-and-sign-up.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up-page/sign-in-and-sign-up.styles.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +160,7 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="rcc.settings.component" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
@@ -232,12 +226,35 @@
       <workItem from="1602812691254" duration="4713000" />
       <workItem from="1602874644031" duration="483000" />
       <workItem from="1602875140160" duration="13260000" />
-      <workItem from="1602898618580" duration="2707000" />
+      <workItem from="1602898618580" duration="4924000" />
     </task>
+    <task id="LOCAL-00001" summary="implemented firebase utils, included ability to store authenticated users into our firestore database">
+      <created>1602901560267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602901560267</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="implemented firebase utils, included ability to store authenticated users into our firestore database" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented firebase utils, included ability to store authenticated users into our firestore database" />
   </component>
   <component name="WindowStateProjectService">
     <state x="494" y="396" key="#Notifications" timestamp="1602875594407">
@@ -262,23 +279,24 @@
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="572" y="419" key="#sign-in-and-sign-up.component.jsx/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602805124568" />
-    <state x="469" y="246" key="CommitChangelistDialog2" timestamp="1602806682771">
+    <state x="1670" y="362" key="CommitChangelistDialog2" timestamp="1602901560131">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
+    <state x="1670" y="362" key="CommitChangelistDialog2/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602901560131" />
     <state x="469" y="246" key="CommitChangelistDialog2/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602806682771" />
     <state x="1837" y="162" width="1520" height="1217" key="DiffContextDialog" timestamp="1602901334520">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="1837" y="162" width="1520" height="1217" key="DiffContextDialog/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602901334520" />
-    <state x="917" y="520" width="684" height="658" key="EditFileWatcherDialog" timestamp="1602875056168">
+    <state x="917" y="520" width="684" height="658" key="EditFileWatcherDialog" timestamp="1602903816087">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="917" y="520" width="684" height="658" key="EditFileWatcherDialog/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602875056168" />
-    <state x="1775" y="323" width="1267" height="975" key="SettingsEditor" timestamp="1602896492723">
+    <state x="917" y="520" width="684" height="658" key="EditFileWatcherDialog/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602903816087" />
+    <state x="1775" y="323" width="1267" height="975" key="SettingsEditor" timestamp="1602903817892">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="369" y="370" key="SettingsEditor/0.23.3440.1417/-1920.62.1920.1177@0.23.3440.1417" timestamp="1602688665621" />
-    <state x="1775" y="323" width="1267" height="975" key="SettingsEditor/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602896492723" />
+    <state x="1775" y="323" width="1267" height="975" key="SettingsEditor/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602903817892" />
     <state x="879" y="328" key="SettingsEditor/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602813757070" />
     <state width="247" height="200" key="ShowFilterAction_Filter_Popup" timestamp="1602875550749">
       <screen x="0" y="23" width="3440" height="1417" />
@@ -288,6 +306,10 @@
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602900554793" />
+    <state x="2180" y="466" key="Vcs.Push.Dialog.v2" timestamp="1602901565004">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="2180" y="466" key="Vcs.Push.Dialog.v2/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602901565004" />
     <state x="565" y="472" width="657" height="518" key="find.popup" timestamp="1602875278340">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
@@ -300,11 +322,11 @@
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="1709" y="542" width="1083" height="822" key="save.file.as.template.dialog/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602893570635" />
-    <state x="525" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1602875637639">
+    <state x="525" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1602902035181">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="525" y="348" width="670" height="676" key="search.everywhere.popup/0.23.3440.1417/-1920.62.1920.1177@0.23.3440.1417" timestamp="1602688510868" />
-    <state x="525" y="348" width="670" height="676" key="search.everywhere.popup/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602875637639" />
+    <state x="525" y="348" width="670" height="676" key="search.everywhere.popup/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602902035181" />
     <state x="525" y="348" width="670" height="676" key="search.everywhere.popup/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602805302438" />
   </component>
 </project>
