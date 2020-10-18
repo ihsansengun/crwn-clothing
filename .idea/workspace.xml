@@ -20,13 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="824b0fa1-207f-4f5d-8546-ea3204318997" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/redux/user/user.types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/shopping-bag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up-page/sign-in-and-sign-up.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up-page/sign-in-and-sign-up.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/user/user.actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/user/user.actions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/user/user.reducer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/user/user.reducer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/root-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/root-reducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +40,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="SCSS File" />
         <option value="React Func Component" />
+        <option value="SCSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -169,7 +173,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT&#10;JavaScript" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript&#10;TEXT" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/shop" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -181,7 +185,7 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -191,15 +195,23 @@
       <recent name="$PROJECT_DIR$/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/cart-dropdown" />
+      <recent name="$PROJECT_DIR$/src/components/cart-icon" />
+      <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/src/components/sign-up" />
       <recent name="$PROJECT_DIR$/src/components/button" />
-      <recent name="$PROJECT_DIR$/src/components/form-input" />
-      <recent name="$PROJECT_DIR$/src/assets" />
-      <recent name="$PROJECT_DIR$/public/images" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="yarn start" />
+    </option>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="cart.actions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/redux/cart/cart.actions.js" working-dir="$PROJECT_DIR$/src/redux/cart">
       <method v="2" />
     </configuration>
     <configuration name="npm start" type="js.build_tools.npm">
@@ -212,6 +224,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.cart.actions.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -243,7 +260,10 @@
       <workItem from="1602908499465" duration="404000" />
       <workItem from="1602908915670" duration="1000" />
       <workItem from="1602968057360" duration="1513000" />
-      <workItem from="1602969580022" duration="5882000" />
+      <workItem from="1602969580022" duration="6864000" />
+      <workItem from="1602989244464" duration="890000" />
+      <workItem from="1602991211730" duration="3380000" />
+      <workItem from="1603038394176" duration="8970000" />
     </task>
     <task id="LOCAL-00001" summary="implemented firebase utils, included ability to store authenticated users into our firestore database">
       <created>1602901560267</created>
@@ -259,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602986850453</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updating the up to redirect to home if user is signed in">
+      <created>1602988342260</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602988342260</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,13 +310,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="implemented firebase utils, included ability to store authenticated users into our firestore database" />
     <MESSAGE value="added redux and implemented user reducer and user action to header components" />
-    <option name="LAST_COMMIT_MESSAGE" value="added redux and implemented user reducer and user action to header components" />
+    <MESSAGE value="updating the up to redirect to home if user is signed in" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating the up to redirect to home if user is signed in" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="494" y="396" key="#Notifications" timestamp="1602875594407">
+    <state x="494" y="396" key="#Notifications" timestamp="1602991663436">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="494" y="396" key="#Notifications/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602875594407" />
+    <state x="494" y="396" key="#Notifications/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602991663436" />
+    <state x="2008" y="596" width="1071" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603041286139">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="2008" y="596" width="1071" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1603041286139" />
     <state x="2114" y="431" width="800" height="600" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1602908629036">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
@@ -316,10 +348,10 @@
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="2326" y="558" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602908550199" />
-    <state x="1670" y="362" key="CommitChangelistDialog2" timestamp="1602986850279">
+    <state x="1670" y="362" key="CommitChangelistDialog2" timestamp="1602988342183">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="1670" y="362" key="CommitChangelistDialog2/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986850279" />
+    <state x="1670" y="362" key="CommitChangelistDialog2/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602988342183" />
     <state x="469" y="246" key="CommitChangelistDialog2/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602806682771" />
     <state x="1837" y="162" width="1520" height="1217" key="DiffContextDialog" timestamp="1602987690073">
       <screen x="0" y="23" width="3440" height="1417" />
@@ -329,22 +361,22 @@
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="917" y="520" width="684" height="658" key="EditFileWatcherDialog/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602903816087" />
-    <state width="1309" height="385" key="GridCell.Tab.0.bottom" timestamp="1602987832909">
+    <state width="1287" height="385" key="GridCell.Tab.0.bottom" timestamp="1603049028206">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state width="1309" height="385" key="GridCell.Tab.0.bottom/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602987832909" />
-    <state width="1309" height="385" key="GridCell.Tab.0.center" timestamp="1602987832908">
+    <state width="1287" height="385" key="GridCell.Tab.0.bottom/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1603049028206" />
+    <state width="1287" height="385" key="GridCell.Tab.0.center" timestamp="1603049028205">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state width="1309" height="385" key="GridCell.Tab.0.center/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602987832908" />
-    <state width="1309" height="385" key="GridCell.Tab.0.left" timestamp="1602987832907">
+    <state width="1287" height="385" key="GridCell.Tab.0.center/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1603049028205" />
+    <state width="1287" height="385" key="GridCell.Tab.0.left" timestamp="1603049028205">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state width="1309" height="385" key="GridCell.Tab.0.left/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602987832907" />
-    <state width="1309" height="385" key="GridCell.Tab.0.right" timestamp="1602987832908">
+    <state width="1287" height="385" key="GridCell.Tab.0.left/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1603049028205" />
+    <state width="1287" height="385" key="GridCell.Tab.0.right" timestamp="1603049028205">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state width="1309" height="385" key="GridCell.Tab.0.right/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602987832908" />
+    <state width="1287" height="385" key="GridCell.Tab.0.right/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1603049028205" />
     <state width="1309" height="495" key="GridCell.Tab.1.bottom" timestamp="1602986679187">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
@@ -393,32 +425,32 @@
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state width="1309" height="495" key="GridCell.Tab.3.right/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986679188" />
-    <state x="1749" y="239" width="1267" height="975" key="SettingsEditor" timestamp="1602969569193">
+    <state x="496" y="259" width="1267" height="975" key="SettingsEditor" timestamp="1603043885324">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="369" y="370" key="SettingsEditor/0.23.3440.1417/-1920.62.1920.1177@0.23.3440.1417" timestamp="1602688665621" />
-    <state x="1749" y="239" width="1267" height="975" key="SettingsEditor/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602969569193" />
+    <state x="496" y="259" width="1267" height="975" key="SettingsEditor/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1603043885324" />
     <state x="879" y="328" key="SettingsEditor/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602813757070" />
     <state width="247" height="200" key="ShowFilterAction_Filter_Popup" timestamp="1602875550749">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state width="247" height="200" key="ShowFilterAction_Filter_Popup/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602875550749" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1602987957250">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1603049837127">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602987957250" />
-    <state x="2180" y="466" key="Vcs.Push.Dialog.v2" timestamp="1602986859038">
+    <state width="500" height="445" key="SwitcherDM/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1603049837127" />
+    <state x="2180" y="466" key="Vcs.Push.Dialog.v2" timestamp="1602988503903">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="2180" y="466" key="Vcs.Push.Dialog.v2/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986859038" />
+    <state x="2180" y="466" key="Vcs.Push.Dialog.v2/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602988503903" />
     <state x="2343" y="582" key="cloudConfig.SelfSettingsDialog" timestamp="1602906457013">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="2343" y="582" key="cloudConfig.SelfSettingsDialog/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602906457013" />
-    <state x="2383" y="649" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602908270361">
+    <state x="2383" y="649" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603042983561">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="2383" y="649" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602908270361" />
+    <state x="2383" y="649" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1603042983561" />
     <state x="565" y="472" width="657" height="518" key="find.popup" timestamp="1602875278340">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
@@ -427,15 +459,19 @@
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state width="600" height="440" key="javadoc.popup/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602889116883" />
+    <state x="2244" y="350" width="672" height="677" key="run.anything.popup" timestamp="1603042645499">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="2244" y="350" width="672" height="677" key="run.anything.popup/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1603042645499" />
     <state x="1709" y="542" width="1083" height="822" key="save.file.as.template.dialog" timestamp="1602893570635">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="1709" y="542" width="1083" height="822" key="save.file.as.template.dialog/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602893570635" />
-    <state x="1929" y="350" width="670" height="676" key="search.everywhere.popup" timestamp="1602908601501">
+    <state x="2046" y="424" width="672" height="676" key="search.everywhere.popup" timestamp="1603047921337">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="525" y="348" width="670" height="676" key="search.everywhere.popup/0.23.3440.1417/-1920.62.1920.1177@0.23.3440.1417" timestamp="1602688510868" />
-    <state x="1929" y="350" width="670" height="676" key="search.everywhere.popup/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602908601501" />
+    <state x="2046" y="424" width="672" height="676" key="search.everywhere.popup/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1603047921337" />
     <state x="525" y="348" width="670" height="676" key="search.everywhere.popup/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602805302438" />
   </component>
 </project>
