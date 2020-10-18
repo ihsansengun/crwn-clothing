@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="824b0fa1-207f-4f5d-8546-ea3204318997" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/redux/root-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/user/user.actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/user/user.reducer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/user/user.types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/header.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firebase/firebase.utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase/firebase.utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up-page/sign-in-and-sign-up.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up-page/sign-in-and-sign-up.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/user/user.actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/user/user.actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/user/user.reducer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/user/user.reducer.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,7 +243,7 @@
       <workItem from="1602908499465" duration="404000" />
       <workItem from="1602908915670" duration="1000" />
       <workItem from="1602968057360" duration="1513000" />
-      <workItem from="1602969580022" duration="4206000" />
+      <workItem from="1602969580022" duration="5882000" />
     </task>
     <task id="LOCAL-00001" summary="implemented firebase utils, included ability to store authenticated users into our firestore database">
       <created>1602901560267</created>
@@ -239,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602901560267</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added redux and implemented user reducer and user action to header components">
+      <created>1602986850453</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602986850453</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,7 +282,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="implemented firebase utils, included ability to store authenticated users into our firestore database" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented firebase utils, included ability to store authenticated users into our firestore database" />
+    <MESSAGE value="added redux and implemented user reducer and user action to header components" />
+    <option name="LAST_COMMIT_MESSAGE" value="added redux and implemented user reducer and user action to header components" />
   </component>
   <component name="WindowStateProjectService">
     <state x="494" y="396" key="#Notifications" timestamp="1602875594407">
@@ -295,35 +316,83 @@
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="2326" y="558" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602908550199" />
-    <state x="1670" y="362" key="CommitChangelistDialog2" timestamp="1602901560131">
+    <state x="1670" y="362" key="CommitChangelistDialog2" timestamp="1602986850279">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="1670" y="362" key="CommitChangelistDialog2/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602901560131" />
+    <state x="1670" y="362" key="CommitChangelistDialog2/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986850279" />
     <state x="469" y="246" key="CommitChangelistDialog2/3440.263.1920.1177/0.23.3440.1417@0.23.3440.1417" timestamp="1602806682771" />
-    <state x="1837" y="162" width="1520" height="1217" key="DiffContextDialog" timestamp="1602901334520">
+    <state x="1837" y="162" width="1520" height="1217" key="DiffContextDialog" timestamp="1602987690073">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="1837" y="162" width="1520" height="1217" key="DiffContextDialog/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602901334520" />
+    <state x="1837" y="162" width="1520" height="1217" key="DiffContextDialog/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602987690073" />
     <state x="917" y="520" width="684" height="658" key="EditFileWatcherDialog" timestamp="1602903816087">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="917" y="520" width="684" height="658" key="EditFileWatcherDialog/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602903816087" />
-    <state width="1309" height="495" key="GridCell.Tab.0.bottom" timestamp="1602986568096">
+    <state width="1309" height="385" key="GridCell.Tab.0.bottom" timestamp="1602987832909">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state width="1309" height="495" key="GridCell.Tab.0.bottom/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986568096" />
-    <state width="1309" height="495" key="GridCell.Tab.0.center" timestamp="1602986568096">
+    <state width="1309" height="385" key="GridCell.Tab.0.bottom/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602987832909" />
+    <state width="1309" height="385" key="GridCell.Tab.0.center" timestamp="1602987832908">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state width="1309" height="495" key="GridCell.Tab.0.center/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986568096" />
-    <state width="1309" height="495" key="GridCell.Tab.0.left" timestamp="1602986568095">
+    <state width="1309" height="385" key="GridCell.Tab.0.center/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602987832908" />
+    <state width="1309" height="385" key="GridCell.Tab.0.left" timestamp="1602987832907">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state width="1309" height="495" key="GridCell.Tab.0.left/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986568095" />
-    <state width="1309" height="495" key="GridCell.Tab.0.right" timestamp="1602986568096">
+    <state width="1309" height="385" key="GridCell.Tab.0.left/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602987832907" />
+    <state width="1309" height="385" key="GridCell.Tab.0.right" timestamp="1602987832908">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state width="1309" height="495" key="GridCell.Tab.0.right/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986568096" />
+    <state width="1309" height="385" key="GridCell.Tab.0.right/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602987832908" />
+    <state width="1309" height="495" key="GridCell.Tab.1.bottom" timestamp="1602986679187">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1309" height="495" key="GridCell.Tab.1.bottom/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986679187" />
+    <state width="1309" height="495" key="GridCell.Tab.1.center" timestamp="1602986679186">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1309" height="495" key="GridCell.Tab.1.center/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986679186" />
+    <state width="1309" height="495" key="GridCell.Tab.1.left" timestamp="1602986679186">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1309" height="495" key="GridCell.Tab.1.left/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986679186" />
+    <state width="1309" height="495" key="GridCell.Tab.1.right" timestamp="1602986679187">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1309" height="495" key="GridCell.Tab.1.right/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986679187" />
+    <state width="1309" height="495" key="GridCell.Tab.2.bottom" timestamp="1602986679187">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1309" height="495" key="GridCell.Tab.2.bottom/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986679187" />
+    <state width="1309" height="495" key="GridCell.Tab.2.center" timestamp="1602986679187">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1309" height="495" key="GridCell.Tab.2.center/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986679187" />
+    <state width="1309" height="495" key="GridCell.Tab.2.left" timestamp="1602986679187">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1309" height="495" key="GridCell.Tab.2.left/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986679187" />
+    <state width="1309" height="495" key="GridCell.Tab.2.right" timestamp="1602986679187">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1309" height="495" key="GridCell.Tab.2.right/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986679187" />
+    <state width="1309" height="495" key="GridCell.Tab.3.bottom" timestamp="1602986679188">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1309" height="495" key="GridCell.Tab.3.bottom/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986679188" />
+    <state width="1309" height="495" key="GridCell.Tab.3.center" timestamp="1602986679188">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1309" height="495" key="GridCell.Tab.3.center/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986679188" />
+    <state width="1309" height="495" key="GridCell.Tab.3.left" timestamp="1602986679188">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1309" height="495" key="GridCell.Tab.3.left/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986679188" />
+    <state width="1309" height="495" key="GridCell.Tab.3.right" timestamp="1602986679188">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1309" height="495" key="GridCell.Tab.3.right/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986679188" />
     <state x="1749" y="239" width="1267" height="975" key="SettingsEditor" timestamp="1602969569193">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
@@ -334,14 +403,14 @@
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state width="247" height="200" key="ShowFilterAction_Filter_Popup/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602875550749" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1602970691936">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1602987957250">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602970691936" />
-    <state x="2180" y="466" key="Vcs.Push.Dialog.v2" timestamp="1602901565004">
+    <state width="500" height="445" key="SwitcherDM/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602987957250" />
+    <state x="2180" y="466" key="Vcs.Push.Dialog.v2" timestamp="1602986859038">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="2180" y="466" key="Vcs.Push.Dialog.v2/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602901565004" />
+    <state x="2180" y="466" key="Vcs.Push.Dialog.v2/0.23.3440.1417/3440.263.1920.1177@0.23.3440.1417" timestamp="1602986859038" />
     <state x="2343" y="582" key="cloudConfig.SelfSettingsDialog" timestamp="1602906457013">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
